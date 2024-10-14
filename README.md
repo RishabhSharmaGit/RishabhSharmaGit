@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhSharmaGit&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RishabhSharmaGit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=RishabhSharmaGit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true&quote=The%20only%20limit%20to%20our%20realization%20of%20tomorrow%20will%20be%20our%20doubts%20of%20today.&author=Franklin%20D.%20Roosevelt)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RishabhSharmaGit&icon=2&color=1)](https://visitcount.itsvg.in)
